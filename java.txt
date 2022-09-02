@@ -1,0 +1,1 @@
+In java every thing is object.
